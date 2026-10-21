@@ -14,5 +14,5 @@
     <rect x="6" y="6" width="408" height="48" rx="24" fill="url(#p)" stroke="#fff" stroke-width="2.5"/>
     <rect x="16" y="10" width="388" height="22" rx="11" fill="url(#g)"/>
   </g>
-  <text x="210" y="39" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="24" font-weight="700" fill="#fff" stroke="#0a4f8f" stroke-width="0.6" paint-order="stroke">🌊 Projetos</text>
+  <text x="210" y="39" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="24" font-weight="700" fill="#fff" stroke="#0a4f8f" stroke-width="0.6" paint-order="stroke">Projetos</text>
 </svg>
