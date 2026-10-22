@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="Luiz Arthur - desenvolvedor web" width="100%"/>
 
-<a href="https://github.com/10Shiny01"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1000&color=1E9BFF&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Luiz;Construindo+projetos+web;Aprendendo+Java+e+criando+apps;Interfaces+limpinhas+e+brilhantes" alt="Digitando..." /></a>
+<a href="https://github.com/10Shiny01"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1000&color=1E9BFF&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Luiz;Construindo+projetos+web;Aprendendo+C%23+e+C%2B%2B+para+criar+apps;Interfaces+limpinhas+e+brilhantes" alt="Digitando..." /></a>
 
 ![Visitas](https://komarev.com/ghpvc/?username=10Shiny01&label=visitas&color=5fd0ff&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/10Shiny01?label=seguidores&style=for-the-badge&color=3fc47e&labelColor=1e9bff)

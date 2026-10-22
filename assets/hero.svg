@@ -23,4 +23,4 @@
 <g clip-path="url(#pclip)"><rect x="-200" y="130" width="110" height="290" fill="url(#sweep)" transform="skewX(-20)"><animate attributeName="x" from="-200" to="1000" dur="5.5s" repeatCount="indefinite"/></rect></g>
 <text x="450" y="262" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="88" font-weight="700" fill="#fff" stroke="#0a6ad1" stroke-width="2.4" paint-order="stroke">Luiz Arthur</text>
 <text x="450" y="318" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="30" font-weight="600" fill="#0b5fa5">desenvolvedor web</text>
-<text x="450" y="362" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="24" fill="#0b5fa5">aprendendo Java e criando apps</text></g></g></svg>
+<text x="450" y="362" text-anchor="middle" font-family="Segoe UI, Trebuchet MS, Verdana, sans-serif" font-size="24" fill="#0b5fa5">aprendendo C# e C++ para criar apps</text></g></g></svg>
